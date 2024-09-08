@@ -1,0 +1,17 @@
+.hero-section {
+    padding: 60px 20px;
+    background-color: #e3f2fd;
+    margin-bottom: 40px;
+  }
+  
+  .featured-doctors-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .testimonials-paper {
+    padding: 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
